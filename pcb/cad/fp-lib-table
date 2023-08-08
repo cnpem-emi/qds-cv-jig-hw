@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "qds-cv-jig-hw-lib")(type "KiCad")(uri "${KIPRJMOD}/qds-cv-jig-hw-lib.pretty")(options "")(descr ""))
+)
